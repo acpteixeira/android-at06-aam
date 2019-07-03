@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dinamica Cinco</string>
+    <string name="button_send_message">SEND</string>
+    <string name="default_text">DEFAULT TEXT</string>
+</resources>
